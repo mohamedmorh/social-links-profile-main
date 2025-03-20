@@ -34,13 +34,13 @@ section{
 @media (max-width: 600px) {
     body{
         height: auto;
-        margin: 115px auto;
+        display: block;
     }
     section{
         width: 320px;
+        margin: 115px auto;
         padding: 25px;
     }
-}
 img{
     width: 90px;
     height: 90px;

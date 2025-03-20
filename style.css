@@ -31,6 +31,16 @@ section{
     padding: 40px;
     border-radius: 16px;
 }
+@media (max-width: 600px) {
+    body{
+        height: auto;
+        margin: 115px auto;
+    }
+    section{
+        width: 320px;
+        padding: 25px;
+    }
+}
 img{
     width: 90px;
     height: 90px;
